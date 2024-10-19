@@ -55,7 +55,7 @@ fun NotasPage(){
             Button(
                 onClick = {},
                 modifier = Modifier.fillMaxWidth().background(
-                    color = colorResource(id = R.color.black)
+                    color = colorResource(id = R.color.teal_200)
                 )
                 ) {
                 Text(text = stringResource(id=R.string.guardar_btn))
